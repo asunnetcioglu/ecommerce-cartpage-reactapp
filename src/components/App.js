@@ -2,20 +2,16 @@ import React, {Component} from 'react';
 import Header from './header/header';
 import Content from "./content/content";
 import Footer from "./footer/footer";
-import {Row, Col} from "react-bootstrap";
+import './App.scss';
 
 class App extends Component {
   render() {
     return (
-        <Col className={"outter-cont"}>
-            <Row>
-                <Header/>
-            </Row>
-            <Row>
-                <Content />
-            </Row>
+        <section>
+            <Header/>
+            <Content />
             <Footer />
-        </Col>
+        </section>
 
     );
   }

@@ -11,6 +11,7 @@ import Container from "react-bootstrap/Container";
 class Header extends Component {
     render() {
         return (
+            <Row>
             <Col className={"header-cont"}>
                 <Col className={"top-bar"}>
                     <Container>
@@ -26,6 +27,7 @@ class Header extends Component {
                     </Row>
                 </Container>
             </Col>
+            </Row>
         );
     }
 }
