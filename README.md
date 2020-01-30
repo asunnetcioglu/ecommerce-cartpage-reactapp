@@ -1,14 +1,3 @@
-Proje Detayları:
-
-ReactJs Javascript framework üzerinde Jsx, Component özellikleri ile geliştirilmiştir.
-React-Bootstrap4 Ektentisi ile Responsive yapıdadır.
-FontAwesome React ile font icon css kullanılmıştır.
-Scss ile css geliştirmesi yapılmış, "Variables, Nested" gibi özellikleri kullanılmıştır.
-Scss dosyaları sass react eklentisi ile otomatik olarak css tarafına generate olmaktadır.
-Proje içerisinde react-grunt task runner vardır.
-Projenin ekran görüntüsü de ektedir.
-
-
 Project Details,
 
 Jsx on ReactJs Javascript framework has been developed with Component features. 
