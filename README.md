@@ -3,7 +3,7 @@ Project Details,
 Jsx on ReactJs Javascript framework has been developed with Component features. 
 It is responsive with React-Bootstrap4 attachments. FontAcesome React used font icon css. 
 CSS was developed with scss, features such as "Variables, Nested" were used.
-Scss files are automatically generated to the css side with the sass react plugin. 8 There are react-grunt task runner in the project. 
+Scss files are automatically generated to the css side with the sass react plugin. There are react-grunt task runner in the project. 
 
 
 
