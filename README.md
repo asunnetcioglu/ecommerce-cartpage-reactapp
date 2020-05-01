@@ -1,7 +1,7 @@
 ## Project Details,
 
 Jsx on ReactJs Javascript framework has been developed with Component features. 
-It is responsive with React-Bootstrap4 attachments. FontAcesome React used font icon css. 
+It is responsive with React-Bootstrap4 attachments. FontAwesome React used font icon css. 
 CSS was developed with scss, features such as "Variables, Nested" were used.
 Scss files are automatically generated to the css side with the sass react plugin.
 
